@@ -1,2 +1,2 @@
 # Numerical_method_sesional
-This code are not mine. These were given by our course teacher on this subject. I am keeping these as I want to practice mathematics later.
+These codes are not mine. Our course teacher gave these on this subject. I am keeping these as I want to practice mathematics later.
